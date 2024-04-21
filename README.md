@@ -1,10 +1,10 @@
 # Project_Flashcards_Elijah_Sheridan_Complete_Solution
 
-Getting Started
-Download or clone this repository.
-Open a terminal in the project directory.
-Run npm install to install dependencies.
-Run npm start to launch the project.
+# Getting Started
+1. Download or clone this repository.
+2. Open a terminal in the project directory.
+3. Run npm install to install dependencies.
+4. Run npm start to launch the project.
 
 
 # Components & paths 
